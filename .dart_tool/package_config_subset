@@ -2,6 +2,10 @@ async
 3.4
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/async-2.12.0/
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/async-2.12.0/lib/
+bloc
+2.14
+file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/bloc-9.0.0/
+file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/bloc-9.0.0/lib/
 boolean_selector
 3.1
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2/
@@ -26,6 +30,10 @@ fake_async
 3.3
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/fake_async-1.3.2/
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/fake_async-1.3.2/lib/
+flutter_bloc
+2.14
+file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/flutter_bloc-9.1.0/
+file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/flutter_bloc-9.1.0/lib/
 flutter_lints
 3.5
 file:///home/ahmed-helmy/.pub-cache/hosted/pub.dev/flutter_lints-5.0.0/
